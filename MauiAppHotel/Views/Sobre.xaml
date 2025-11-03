@@ -5,11 +5,12 @@
              Title="Sobre">
     <VerticalStackLayout>
         <Frame Padding="10" Margin="10">
-            <Label Text="Dev: Enzo Gustavo Melero Grosso
+            <Label Text="Dev: Victor Henrique de Barros Oliveira
                    Feito: 02/11/2025"
                    FontSize="17"
  />
 
  </Frame>
     </VerticalStackLayout>
+
 </ContentPage>
